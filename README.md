@@ -53,11 +53,6 @@ We've got everything that you need! A Crypto Dashboard to check all details abou
 
 .... and more
 
-## Our Social Links
-
-[![X](https://img.shields.io/badge/X-black.svg?style=normal&logo=X&logoColor=white)](https://x.com/VishwaGauravIn)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/VishwaGauravIn)
-
 ## Tech Used
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
